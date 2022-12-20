@@ -1,0 +1,8 @@
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.csproj.AssemblyReference.cache
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.csproj.SuggestedBindingRedirects.cache
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.Properties.Resources.resources
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.Views.Forms.Frm_Main.resources
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.Views.Forms.RibbonForm1.resources
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.csproj.GenerateResource.cache
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.exe.licenses
+D:\projects\kutuphane1\kutuphane1\obj\x86\Debug\kutuphane1.csproj.CoreCompileInputs.cache

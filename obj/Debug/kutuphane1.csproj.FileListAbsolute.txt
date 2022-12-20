@@ -1,0 +1,15 @@
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.csproj.AssemblyReference.cache
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.csproj.SuggestedBindingRedirects.cache
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.Properties.Resources.resources
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.csproj.GenerateResource.cache
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.exe.licenses
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.csproj.CoreCompileInputs.cache
+D:\projects\kutuphane1\kutuphane1\bin\Debug\kutuphane1.exe.config
+D:\projects\kutuphane1\kutuphane1\bin\Debug\kutuphane1.exe
+D:\projects\kutuphane1\kutuphane1\bin\Debug\kutuphane1.pdb
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.exe
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.pdb
+D:\projects\kutuphane1\kutuphane1\bin\Debug\System.Drawing.Common.dll
+D:\projects\kutuphane1\kutuphane1\bin\Debug\System.Drawing.Common.xml
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.csproj.CopyComplete
+D:\projects\kutuphane1\kutuphane1\obj\Debug\kutuphane1.Views.Forms.RibbonForm1.resources
